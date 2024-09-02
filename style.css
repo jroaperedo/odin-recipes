@@ -1,9 +1,17 @@
+*{
+    padding: 8px;
+    width: 500px;
+    text-align: center;
+}
+
 h1 {
     color:yellow;
     background-color:blue;
+   
 }
 
 ul {
+    list-style-type:none;
     color:blueviolet;
     background-color:rgb(86, 226, 43);
 }
